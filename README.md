@@ -1,8 +1,8 @@
 <h1 align = "center">
   Pytorch-Vanilla-CNN <br>
-  <a href="https://github.com/m-np/ai-ml-project-template/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/m-np/ai-ml-project-template?logo=git&style=plastic"></a>
-  <a href="https://github.com/m-np/ai-ml-project-template/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/m-np/ai-ml-project-template?style=plastic&logo=github"></a>
-  <a href="https://github.com/m-np/ai-ml-project-template/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/m-np/ai-ml-project-template?style=plastic&logo=github"></a>
+  <a href="https://github.com/m-np/pytorch-vanilla-cnn/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/m-np/pytorch-vanilla-cnn?logo=git&style=plastic"></a>
+  <a href="https://github.com/m-np/pytorch-vanilla-cnn/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/m-np/pytorch-vanilla-cnn?style=plastic&logo=github"></a>
+  <a href="https://github.com/m-np/pytorch-vanilla-cnn/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/m-np/pytorch-vanilla-cnn?style=plastic&logo=github"></a>
   <a href="https://makeapullrequest.com/"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic&logo=open-source-initiative"></a>
 </h1>
 

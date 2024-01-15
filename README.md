@@ -16,7 +16,7 @@
 
 ## :writing_hand: Pytorch-Vanilla-CNN
 
-<p align = "justify">:writing_hand: This project performs a cats and dogs classification. :writing_hand: Dataset - [Kaggle](https://www.kaggle.com/datasets/chetankv/dogs-cats-images) </p>
+<p align = "justify">:writing_hand: This project performs a cats and dogs classification. :writing_hand: Dataset - <a href = "https://www.kaggle.com/datasets/chetankv/dogs-cats-images">Kaggle</a></p>
 
 ## LICENSE 
 

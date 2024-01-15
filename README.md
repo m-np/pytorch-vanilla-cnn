@@ -1,5 +1,5 @@
 <h1 align = "center">
-  AI-ML Project Template <br>
+  Pytorch-Vanilla-CNN <br>
   <a href="https://github.com/m-np/ai-ml-project-template/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/m-np/ai-ml-project-template?logo=git&style=plastic"></a>
   <a href="https://github.com/m-np/ai-ml-project-template/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/m-np/ai-ml-project-template?style=plastic&logo=github"></a>
   <a href="https://github.com/m-np/ai-ml-project-template/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/m-np/ai-ml-project-template?style=plastic&logo=github"></a>

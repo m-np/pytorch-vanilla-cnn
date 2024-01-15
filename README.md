@@ -25,4 +25,4 @@
 
 ## Resources
 
-<p align = "justify">:card_index: The code is derived from the following [Medium blog](https://python.plainenglish.io/cat-dog-classification-with-cnn-84af3ae98c44) :key:</p>
+<p align = "justify">:card_index: The code is derived from the following <a href = "https://python.plainenglish.io/cat-dog-classification-with-cnn-84af3ae98c44">Medium blog</a> :key:</p>
